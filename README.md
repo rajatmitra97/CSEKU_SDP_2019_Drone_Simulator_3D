@@ -1,20 +1,22 @@
 # Drone_Simulator_3D
-It is a CSEKU SDP 2017 Project 
+It is a CSEKU SDP 2019 Project 
 
-Term : 2-2
+Term : 3-1
  
-Batch : 16
+Batch : 17
 
-Project Name: Contractual Company Payment System
+Project Name: Drone Simulator 3D
 
     
 Project Description: 
 
-		Progamming Language : PHP & Android
-		Database 			: MySQL
-		Project Model       : MVC & SaaS 
+		Program type        : Game 
+		Progamming Language : C#
+		Used platform 	    : Unity
+		Version		    : 1.0	
+		 
 
-Platform : Web Application, Android Mobile Application
+Platform : Unity
 
 Project Location : Khulna University, Bangladesh
 
@@ -25,21 +27,14 @@ Project Manager:
 	CSE Discipline
 	Khulna University,Khulna
 
-	         
-	         and
-	
-        	
-	Dr. Manishankar Mondal
-	Assistant Professor
-	CSE Discipline
-	Khulna University,Khulna
+	      
 
    
   
 Developed by:
 
-	A.K.M. Fahim Rahman (160215)
-	Ryhan Ahmed Tamim (160230)
-	Israt Jahan Joya (160239)
+	Rajat Mitra Raja (170231)
+	Kazi Asif Ahmed (170203)
+	
 
 	
