@@ -18,7 +18,10 @@ Project Description:
 		 
 Project Download :
 	[Download Link](https://drive.google.com/file/d/12X7rgaF3_XrwHWwwsjqelp36zL5VJqoh/view?usp=sharing)
-
+	
+Youtube Video link :
+	[Youtube Link](https://youtu.be/VXFvmCBqt9k)
+	
 Platform : Unity
 
 Project Location : Khulna University, Bangladesh
